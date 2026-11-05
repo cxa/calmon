@@ -1,0 +1,82 @@
+# Release Notes
+
+## beta.20261105.0
+
+## First public beta
+
+Calmon is free during beta. Requires macOS 26 or later. Supports Apple silicon and Intel Macs.
+
+- Scroll between window columns. Stack windows from the same app, or pin a reference column.
+- Use the mouse for window actions. Open the clickable key panel to learn commands as you go.
+- Keep app shortcuts in Pin Deck, floating windows in Sky Deck, and full-screen windows in Max Deck.
+- Check for updates from the Calmon menu.
+
+### Install
+
+Download the DMG below. Move Calmon to Applications, then open it and allow Accessibility access.
+
+### Display setup
+
+Arrange displays vertically for best results. Side-by-side displays block scrolling at shared edges, where column switching loops. With displays on both sides, background windows stack behind the selected window.
+
+Feedback: [@lazyapps on X](https://x.com/lazyapps).
+
+## 首个公开 Beta
+
+Beta 期间免费。需要 macOS 26 或更新版本，支持 Apple 芯片与 Intel Mac。
+
+- 在窗口列之间滚动，同应用窗口自动堆叠，也可将参考列固定在一侧。
+- 鼠标可完成窗口操作。点击按键面板，边用边熟悉命令。
+- Pin Deck 保存常用 App，Sky Deck 收纳浮动窗口，Max Deck 列出原生全屏窗口。
+- 从 Calmon 菜单检查更新。
+
+### 安装
+
+下载下方 DMG，将 Calmon 移入「应用程序」。打开后，按引导允许辅助功能访问。
+
+### 显示器排列
+
+多显示器请上下排列。横向并排时，共享边缘会阻断滚动，切换列会循环跳转。两侧都有显示器时，后台窗口会叠在当前窗口后方。
+
+反馈请联系 X 上的 [@lazyapps](https://x.com/lazyapps)。
+
+## beta.20261104.0
+
+## First public beta
+
+Calmon is free during beta. Requires macOS 26 or later. Supports Apple silicon and Intel Macs.
+
+- Scroll between window columns. Stack windows from the same app, or pin a reference column.
+- Use the mouse for window actions. Open the clickable key panel to learn commands as you go.
+- Keep app shortcuts in Pin Deck, floating windows in Sky Deck, and full-screen windows in Max Deck.
+- Check for updates from the Calmon menu.
+
+### Install
+
+Download the DMG below. Move Calmon to Applications, then open it and allow Accessibility access.
+
+### Display setup
+
+Arrange displays vertically for best results. Side-by-side displays block scrolling at shared edges, where column switching loops. With displays on both sides, background windows stack behind the selected window.
+
+Feedback: [@lazyapps on X](https://x.com/lazyapps).
+
+## 首个公开 Beta
+
+Beta 期间免费。需要 macOS 26 或更新版本，支持 Apple 芯片与 Intel Mac。
+
+- 在窗口列之间滚动，同应用窗口自动堆叠，也可将参考列固定在一侧。
+- 鼠标可完成窗口操作。点击按键面板，边用边熟悉命令。
+- Pin Deck 保存常用 App，Sky Deck 收纳浮动窗口，Max Deck 列出原生全屏窗口。
+- 从 Calmon 菜单检查更新。
+
+### 安装
+
+下载下方 DMG，将 Calmon 移入「应用程序」。打开后，按引导允许辅助功能访问。
+
+### 显示器排列
+
+多显示器请上下排列。横向并排时，共享边缘会阻断滚动，切换列会循环跳转。两侧都有显示器时，后台窗口会叠在当前窗口后方。
+
+反馈请联系 X 上的 [@lazyapps](https://x.com/lazyapps)。
+
