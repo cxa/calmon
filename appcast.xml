@@ -5,6 +5,35 @@
     <link>https://lazyapps.com/calmon/</link>
     <description>Calmon beta updates</description>
     <item>
+      <title>Calmon beta.20261107.0</title>
+      <pubDate>Sat, 07 Nov 2026 19:09:20 +0800</pubDate>
+      <sparkle:version>2611.7.0</sparkle:version>
+      <sparkle:shortVersionString>beta.20261107.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>## English
+
+- Use Calmon with “Displays have separate Spaces” either on or off. When it is off, displays share desktop numbers and switch desktops together.
+- In leader mode, press the backtick key to focus the next display, or Shift + backtick to move the focused window there and follow it. The pointer and key panel follow the target display. Rapid repeated moves keep the same window and settle on the final target.
+- Keep using 1–9 for direct desktop access. For desktops 10–99, press 0 followed by two digits: 0, 1, 2 selects Desktop 12. Hold Shift for the initial 0 to move the focused window instead. The 0 hint appears only when there are at least ten desktops.
+- Space mode stays active after window commands, so you can keep working without entering it again.
+- Pinned columns now resize the remaining tiled windows reliably. Floating windows receive the correct focus border, and focused app icons keep their notification badges.
+- Focus stays on your latest selection when switching between pinned and scrolling windows or closing a window during a switch.
+- The tab bar stays visible on surviving displays after a display is disconnected.
+- Existing keyboard hooks using the earlier app name continue to work.
+
+## 简体中文
+
+- 无论「显示器具有单独的空间」开启或关闭，都可以使用 Calmon。关闭时，多块显示器共用桌面编号，并同步切换桌面。
+- 在前导键模式中按反引号聚焦下一块显示器，按 Shift+反引号将当前窗口移过去并跟随。鼠标与按键面板会一起跟到目标屏幕；快速连按会保持操作同一窗口，并落在最终目标屏幕。
+- 保留 1–9 直接切换。桌面 10–99 使用 0 前缀和两位数字：依次按 0、1、2 即可前往桌面 12。按初始的 0 时按住 Shift，则移动当前窗口。至少有十个桌面时才显示 0 提示。
+- Space 模式执行窗口命令后保持开启，可继续操作。
+- 修复固定列后其他平铺窗口未正确调整尺寸、浮动窗口焦点边框错误，以及聚焦后的 App 图标漏画通知角标的问题。
+- 在固定列与滚动窗口之间切换，或在切换过程中关闭窗口时，旧动画回调不再把焦点抢回。
+- 拔掉显示器后，其他显示器的标签栏保持可见，避免短暂闪烁。
+- 保留对旧 App 名称键盘钩子的兼容。</description>
+      <enclosure url="https://github.com/cxa/calmon/releases/download/vbeta.20261107.0/calmon-beta.20261107.0.dmg" length="9634296" type="application/octet-stream" sparkle:edSignature="+fO3HoGJBEOVwp1g8useXWyQbHIPL5Lyeb36umaRTgHvQql8EVei5OorX9Qk5nmMyBSczTR77IBzmMQen/q4Cg==" />
+    </item>
+    <item>
       <title>Calmon beta.20261105.0</title>
       <pubDate>Thu, 05 Nov 2026 15:04:06 +0800</pubDate>
       <sparkle:version>2611.5.0</sparkle:version>
