@@ -10,7 +10,7 @@
       <sparkle:version>2611.9.0</sparkle:version>
       <sparkle:shortVersionString>beta.20261109.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>## English
+      <description sparkle:format="markdown">## English
 
 - Display numbers now appear in the center of each layout map, freeing space in the tab bar. Only the current display is highlighted.
 - Large Tiny5 digits and improved contrast make display numbers easier to read. Portrait previews are slightly wider, with a continuous focus color behind the digits.
@@ -29,7 +29,7 @@
       <sparkle:version>2611.7.0</sparkle:version>
       <sparkle:shortVersionString>beta.20261107.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>## English
+      <description sparkle:format="markdown">## English
 
 - Use Calmon with “Displays have separate Spaces” either on or off. When it is off, displays share desktop numbers and switch desktops together.
 - In leader mode, press the backtick key to focus the next display, or Shift + backtick to move the focused window there and follow it. The pointer and key panel follow the target display. Rapid repeated moves keep the same window and settle on the final target.
@@ -58,7 +58,7 @@
       <sparkle:version>2611.5.0</sparkle:version>
       <sparkle:shortVersionString>beta.20261105.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <description>## First public beta
+      <description sparkle:format="markdown">## First public beta
 
 Calmon is free during beta. Requires macOS 26 or later. Supports Apple silicon and Intel Macs.
 
