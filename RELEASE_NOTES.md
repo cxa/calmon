@@ -1,5 +1,19 @@
 # Release Notes
 
+## beta.20261109.0
+
+## English
+
+- Display numbers now appear in the center of each layout map, freeing space in the tab bar. Only the current display is highlighted.
+- Large Tiny5 digits and improved contrast make display numbers easier to read. Portrait previews are slightly wider, with a continuous focus color behind the digits.
+- Layout maps keep the same size in leader mode. Monitor stands and laptop bases have more natural proportions and match the screen outline color.
+
+## 中文
+
+- 显示器编号移到布局小地图中央，为标签栏腾出空间；只有当前显示器高亮。
+- 使用更大的 Tiny5 数字并提高对比度。竖屏预览适当加宽，焦点色连续覆盖数字背后，提高可读性。
+- 进入前导键模式时，小地图保持原尺寸。显示器支架和笔记本底座比例更自然，并与屏幕外框同色。
+
 ## beta.20261107.0
 
 ## English
