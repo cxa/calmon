@@ -1,5 +1,27 @@
 # Release Notes
 
+## beta.20261110.0
+
+## English
+
+- Arrange virtual displays by dragging them left, right, above, or below one another in Settings > Displays. Choose your main display and let the pointer follow your layout.
+- Turn off the virtual arrangement to restore the system arrangement. Your saved virtual layout returns when you enable it again.
+- Display changes apply automatically after connecting or disconnecting a monitor, keeping the remaining displays in place where possible.
+- Pointer movement stays smooth across display edges, including during macOS screenshots. In leader mode, use Shift + ` to move a window to the next display.
+- Fixed a small size change when restoring a window’s original position.
+- Auxiliary app overlays no longer leave stray icons in the tab bar.
+- Update notes now preserve their headings, lists, and paragraph breaks.
+
+## 中文
+
+- 在「设置 > 显示器」中拖动显示器，自由安排左右和上下衔接，选择主显示器，让指针按布局图移动。
+- 关闭虚拟排列即可恢复系统排列；重新启用时恢复保存的虚拟布局。
+- 拔插显示器后自动应用排列，尽量保留其余显示器的位置和顺序。
+- 修复跨屏和触边后的指针卡顿、轨迹变直，以及原生截屏时的移动问题。在前导键模式中按 Shift + ` 可将窗口移到下一台显示器。
+- 修复恢复窗口时的微小尺寸偏差。
+- 统一过滤 App 辅助浮层，避免标签栏出现没有实际窗口的图标。
+- 更新说明正确显示标题、列表和段落。
+
 ## beta.20261109.0
 
 ## English
