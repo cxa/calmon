@@ -1,5 +1,17 @@
 # Release Notes
 
+## beta.20261110.1
+
+## English
+
+- New virtual display layouts now start from your existing macOS display arrangement, including the main display and position offsets.
+- Imported layouts keep their offsets when you turn virtual arrangement off and on or restart Calmon. Existing custom layouts are preserved.
+
+## 中文
+
+- 首次设置虚拟显示器布局时，沿用 Calmon 接管前的 macOS 显示器排列、主显示器和位置偏移。
+- 关闭后重新启用或重启 Calmon，导入的布局仍保留原有偏移；已有自定义布局保持不变。
+
 ## beta.20261110.0
 
 ## English

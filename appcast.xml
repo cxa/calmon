@@ -5,6 +5,23 @@
     <link>https://lazyapps.com/calmon/</link>
     <description>Calmon beta updates</description>
     <item>
+      <title>Calmon beta.20261110.1</title>
+      <pubDate>Tue, 10 Nov 2026 20:34:27 +0800</pubDate>
+      <sparkle:version>2611.10.1</sparkle:version>
+      <sparkle:shortVersionString>beta.20261110.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown">## English
+
+- New virtual display layouts now start from your existing macOS display arrangement, including the main display and position offsets.
+- Imported layouts keep their offsets when you turn virtual arrangement off and on or restart Calmon. Existing custom layouts are preserved.
+
+## 中文
+
+- 首次设置虚拟显示器布局时，沿用 Calmon 接管前的 macOS 显示器排列、主显示器和位置偏移。
+- 关闭后重新启用或重启 Calmon，导入的布局仍保留原有偏移；已有自定义布局保持不变。</description>
+      <enclosure url="https://github.com/cxa/calmon/releases/download/vbeta.20261110.1/calmon-beta.20261110.1.dmg" length="9997706" type="application/octet-stream" sparkle:edSignature="y+aAoqCvA3yZeyNdzLjN+qWpilkX7HvtOfTmXhhmkcE+5DmygzSg22eVvSz1fsuslWSnmmpchiexYdd0vycoDQ==" />
+    </item>
+    <item>
       <title>Calmon beta.20261110.0</title>
       <pubDate>Tue, 10 Nov 2026 18:12:12 +0800</pubDate>
       <sparkle:version>2611.10.0</sparkle:version>
