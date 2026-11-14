@@ -1,5 +1,17 @@
 # Release Notes
 
+## beta.20261113.0
+
+## English
+
+- Improved responsiveness when selecting window icons.
+- Fixed some missed window selections when an app briefly stopped responding.
+
+## 中文
+
+- 改善点击窗口图标时的响应速度。
+- 修复应用短暂无响应时，部分窗口选择请求未能完成的问题。
+
 ## beta.20261110.1
 
 ## English
