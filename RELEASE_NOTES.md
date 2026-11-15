@@ -1,5 +1,17 @@
 # Release Notes
 
+## beta.20261115.0
+
+## English
+
+- Fixed new windows opened by another app losing focus to an older window in the same app stack.
+- Background windows stay in the background, and your next window selection takes priority.
+
+## 中文
+
+- 修复由其他应用打开的新窗口加入同一应用窗口组后，焦点回到旧窗口的问题。
+- 后台创建的窗口不会抢焦点，后续主动选择的窗口仍会优先聚焦。
+
 ## beta.20261113.0
 
 ## English
