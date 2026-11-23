@@ -1,5 +1,15 @@
 # Release Notes
 
+## beta.20261123.0
+
+## English
+
+- Fixed a bug that could make Calmon jump back to the previous window after you clicked a window icon in the tab bar while the target window had an open dialog.
+
+## 中文
+
+- 修复目标窗口有弹窗时，点击标签栏图标切过去后可能跳回原窗口的问题。
+
 ## beta.20261115.0
 
 ## English
