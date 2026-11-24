@@ -1,5 +1,15 @@
 # Release Notes
 
+## beta.20261124.0
+
+## English
+
+- Fixed Accessibility setup on macOS 27.3. Calmon opens System & App Protection Override, where you can click + to add it.
+
+## 中文
+
+- 修复 macOS 27.3 上的辅助功能授权流程。Calmon 会打开系统设置里的权限面板，点击「+」即可添加。
+
 ## beta.20261123.0
 
 ## English
