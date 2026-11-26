@@ -1,6 +1,6 @@
 cask "calmon" do
-  version "beta.20261124.0"
-  sha256 "9c71ea335d74d14234ab78aa9259296b4acba0d98a5dc500cf407404717d1333"
+  version "beta.20261126.0"
+  sha256 "112c8af8c65e0b708ea782bb33db0149e5cdacf64c9fa3affadbfa76ad11ec21"
 
   url "https://github.com/cxa/calmon/releases/download/v#{version}/calmon-#{version}.dmg"
   name "Calmon"

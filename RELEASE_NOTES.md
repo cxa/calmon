@@ -1,5 +1,15 @@
 # Release Notes
 
+## beta.20261126.0
+
+## English
+
+- Fixed an issue where clicking an app icon in the tab bar could switch back to the previous window if the selected app was slow to respond.
+
+## 中文
+
+- 修复点击标签栏中的应用图标后，应用响应较慢时可能切回原窗口的问题。
+
 ## beta.20261124.0
 
 ## English
